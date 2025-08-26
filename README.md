@@ -32,6 +32,7 @@ This is a description table for a bug found in the email module of the registrat
 | BUG_001     | System accepts invalid email domain format  | v1.0.3| 1. Open registration page<br>2. Enter email: `vann170723@gmali.com`<br>3. Fill other fields<br>4. Submit form | 2025-08-26| Registration.js | NGOC HAN| OPEN | - | - | MAJOR | HIGH | 
 
 The following image illustrates bug B_E_001:
+<img width="857" height="822" alt="BUG" src="https://github.com/user-attachments/assets/21eba9ac-5bfa-4041-bed3-4fbffe20fa2a" />
 
 
 📄 Detailed Documentation of Files:
