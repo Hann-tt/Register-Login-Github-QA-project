@@ -26,8 +26,7 @@ This project contains manual test cases for core user authentication flows, incl
 ## 🐞 Bug Reports
 Bug reports are documented in the `bugs/` folder with:
 
-| DEFECT ID   | DESCRIPTION                                 | VERSION     | STEPS                                                                 | CREATE DATE | FILE             | CREATE BY | STATUS  | FIXED BY | CLOSE DATE | SEVERITY | PRIORITY |
-|-------------|---------------------------------------------|-------------|-----------------------------------------------------------------------|-------------|------------------|------------|---------|----------|-------------|----------|----------|
-| BUG_001     | System accepts invalid email domain format  | v1.0.3      | 1. Open registration page<br>2. Enter email: `vann170723@gmali.com`<br>3. Fill other fields<br>4. Submit form | 2025-08-26  | `<img width="857" height="822" alt="Screenshot 2025-08-25 103029" src="https://github.com/user-attachments/assets/ac3e8b59-5829-4693-8cbe-77f9b5a8f0b9" />
-` | Ngọc      | Open    | —        | —           | Major    | High     |
-
+| DEFECT ID   | DESCRIPTION                                 | VERSION     | STEPS                                                        | CREATE DATE | FILE             | CREATE BY | STATUS  | FIXED BY | CLOSE DATE | SEVERITY | PRIORITY |
+|-------------|---------------------------------------------|-------------|--------------------------------------------------------------|-------------|------------------|------------|---------|----------|-------------|----------|----------|
+| BUG_001     | System accepts invalid email domain format  | v1.0.3      | 1. Open registration page<br>2. Enter email: `vann170723@gmali.com`<br>3. Fill other fields<br>4. Submit form | 2025-08-26  |<img width="AUTO" height="auto" alt="BUG" src="https://github.com/user-attachments/assets/741bab16-2f1d-4d01-958c-b02e16e237a5" />
+ | NGOC HAN| OPEN | - | - | MAJOR | HIGH | 
