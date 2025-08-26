@@ -37,6 +37,5 @@ The following image illustrates bug B_E_001:
 
 📄 Detailed Documentation of Files:
 
-- Testcase:
-- Test Scenario:
-- Bug report:
+- Testcase & Test Scenario: [TESTCASE & TEST SCENARIO](./BUG%20REPORTS.xlsx)  
+- Bug report: [BUG REPORT](./TESTCASE%20AND%20TEST%20SCENARIO.xlsx)
