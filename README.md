@@ -1,4 +1,4 @@
-<img width="184" height="209" alt="image" src="https://github.com/user-attachments/assets/4e3a0dbb-9798-4ef1-8204-f81f9b97ec9d" /># Register-Login-Github-QA-project
+# Register-Login-Github-QA-project
 This project contains manual test cases for core user authentication flows, including **Register**, **Login**, and **Forgot Password**. It was created to demonstrate practical QA skills in designing, executing, and documenting test scenarios for common authentication modules.
 ## 📌 Project Overview
 
@@ -25,16 +25,9 @@ This project contains manual test cases for core user authentication flows, incl
 
 ## 🐞 Bug Reports
 Bug reports are documented in the `bugs/` folder with:
-- DEFECT ID
-- DESCRIPTION
-- VERSION
-- STEPS
-- CREATE DATE
-- FILE
-- CREATE BY
-- STATUS
-- FIXED BY
-- CLOSE DATE
-- SERVERITY
-- PRIORITY
+
+| DEFECT ID   | DESCRIPTION                                 | VERSION     | STEPS                                                                 | CREATE DATE | FILE             | CREATE BY | STATUS  | FIXED BY | CLOSE DATE | SEVERITY | PRIORITY |
+|-------------|---------------------------------------------|-------------|-----------------------------------------------------------------------|-------------|------------------|------------|---------|----------|-------------|----------|----------|
+| BUG_001     | System accepts invalid email domain format  | v1.0.3      | 1. Open registration page<br>2. Enter email: `vann170723@gmali.com`<br>3. Fill other fields<br>4. Submit form | 2025-08-26  | `<img width="857" height="822" alt="Screenshot 2025-08-25 103029" src="https://github.com/user-attachments/assets/ac3e8b59-5829-4693-8cbe-77f9b5a8f0b9" />
+` | Ngọc      | Open    | —        | —           | Major    | High     |
 
