@@ -2,6 +2,7 @@
 This project contains manual test cases for core user authentication flows, including **Register**, **Login**, and **Forgot Password**. It was created to demonstrate practical QA skills in designing, executing, and documenting test scenarios for common authentication modules.
 ## 📌 Project Overview
 
+Applied core testing techniques such as Boundary Value Analysis (BVA), Equivalence Partitioning (EP), and Negative Testing to validate the registration and login functionality. Although still at an early stage in my testing journey, this project reflects my dedication, self-learning, and commitment to detail, rather than a task done merely for CV purposes.
 - Type: Manual Testing
 - Scope: Register, Login, Forgot Password
 - Tester: Ngọc Hân
