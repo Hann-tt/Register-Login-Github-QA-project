@@ -36,7 +36,7 @@ The following image illustrates bug B_E_001:
 <img width="857" height="822" alt="BUG" src="https://github.com/user-attachments/assets/21eba9ac-5bfa-4041-bed3-4fbffe20fa2a" />
 
 
-📄 Detailed Documentation of Files:
+## 📄 Detailed Documentation of Files:
 
 - Testcase & Test Scenario: [TESTCASE & TEST SCENARIO](./BUG%20REPORTS.xlsx)  
 - Bug report: [BUG REPORT](./TESTCASE%20AND%20TEST%20SCENARIO.xlsx)
