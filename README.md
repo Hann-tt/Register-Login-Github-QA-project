@@ -38,6 +38,6 @@ The following image illustrates bug B_E_001:
 
 ## 📄 Detailed Documentation of Files:
 
-- Test plan: [TEST PLAN](./TEST20%PLAN20%FOR20%MODULE20%REGISTER.docx)
+- Test plan: [TEST PLAN](./TEST%20PLAN%20FOR%20MODULE%20REGISTER.docx)
 - Testcase & Test Scenario: [TESTCASE & TEST SCENARIO](./TESTCASE%20AND%20TEST%20SCENARIO.xlsx)  
 - Bug report: [BUG REPORT](./BUG%20REPORTS.xlsx)
